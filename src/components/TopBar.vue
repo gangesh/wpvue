@@ -6,7 +6,7 @@
         :to="{
           name: 'home',
         }">
-        WP Vue
+        React-WP Posts
       </router-link>
     </h1>
 
